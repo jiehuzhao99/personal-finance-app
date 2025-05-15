@@ -1,0 +1,10 @@
+.navContainer {
+  background-color: #201F24;
+  display: flex;
+}
+
+.navItem {
+    padding: 10px;
+    color: #FFFFFF;
+    /* background-color: #9747FF; */
+}
